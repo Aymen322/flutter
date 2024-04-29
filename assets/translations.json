@@ -1,0 +1,49 @@
+{
+    "translations": {
+      "About Me": {
+        "English": "About Me",
+        "French": "À propos de moi"
+      },
+      "Experience": {
+        "English": "Experience",
+        "French": "Expérience"
+      },
+      "Education": {
+        "English": "Education",
+        "French": "Éducation"
+      },
+      "Skills": {
+        "English": "Skills",
+        "French": "Compétences"
+      },
+      "Portfolio": {
+        "English": "Portfolio",
+        "French": "Portfolio"
+      },
+      "Name": {
+        "English": "Full Name",
+        "French": "Nom et Prénom"
+      },
+      "Date of Birth": {
+        "English": "Date of Birth",
+        "French": "Date de naissance"
+      },
+      "Place of Birth": {
+        "English": "Place of Birth",
+        "French": "Lieu de naissance"
+      },
+      "Address": {
+        "English": "Address",
+        "French": "Adresse"
+      },
+      "Phone": {
+        "English": "Phone",
+        "French": "Téléphone"
+      },
+      "Email": {
+        "English": "Email",
+        "French": "E-mail"
+      }
+    }
+  }
+  
