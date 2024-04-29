@@ -1,0 +1,32 @@
+{
+  "translations": {
+    "en": {
+      "About Me": "About Me",
+      "Experience": "Experience",
+      "Education": "Education",
+      "Competence": "Competence",
+      "Portfolio": "Project",
+      "Full Name": "Full Name",
+      "Date of Birth": "Date of Birth",
+      "Place of Birth": "Place of Birth",
+      "Address": "Address",
+      "Phone": "Phone",
+      "Email": "Email"
+
+    },
+    "fr": {
+      "About Me": "À propos de moi",
+      "Experience": "Expérience",
+      "Education": "Éducation",
+      "Competence": "Compétences",
+      "Portfolio": "Projets",
+      "Full Name": "Nom complet",
+      "Date of Birth": "Date de naissance",
+      "Place of Birth": "Lieu de naissance",
+      "Address": "Adresse",
+      "Phone": "Téléphone",
+      "Email": "Email"
+
+    }
+  }
+}
